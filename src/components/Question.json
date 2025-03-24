@@ -3,7 +3,7 @@
     {
       "question": "Which country has the largest population?",
       "options": {
-        "A": "India",
+        "A": "Asia",
         "B": "United States",
         "C": "China",
         "D": "Indonesia"
@@ -63,7 +63,7 @@
     {
       "question": "Which gas do plants primarily use for photosynthesis?",
       "options": {
-        "A": "Oxygen",
+        "A": "Carbon",
         "B": "Carbon Dioxide",
         "C": "Nitrogen",
         "D": "Hydrogen"
@@ -383,7 +383,7 @@
     {
       "question": "Which continent is the Sahara Desert located in?",
       "options": {
-        "A": "Asia",
+        "A": "UAE",
         "B": "South America",
         "C": "Africa",
         "D": "Australia"
@@ -396,7 +396,7 @@
         "A": "90°C",
         "B": "100°C",
         "C": "80°C",
-        "D": "120°C"
+        "D": "101°C"
       },
       "correct_answer": "B"
     },
@@ -416,7 +416,7 @@
         "A": "Venus",
         "B": "Mars",
         "C": "Jupiter",
-        "D": "Saturn"
+        "D": "Earth"
       },
       "correct_answer": "B"
     },
@@ -435,7 +435,7 @@
       "options": {
         "A": "Elephant",
         "B": "Blue Whale",
-        "C": "Giraffe",
+        "C": "Wolf",
         "D": "Hippopotamus"
       },
       "correct_answer": "B"
@@ -446,9 +446,9 @@
         "A": "Africa",
         "B": "Asia",
         "C": "South America",
-        "D": "Australia"
+        "D": "China"
       },
       "correct_answer": "C"
-    }
+    },
   ]
 }
